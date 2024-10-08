@@ -3,11 +3,11 @@
     margin: auto;
   }
   
-  .horizontal-form {
+  /* .horizontal-form {
     display: flex;
     flex-wrap:wrap;
     gap: 20px;
-  }
+  } */
   
   .form-group {
     width: 25%;

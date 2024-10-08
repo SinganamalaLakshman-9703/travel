@@ -1,0 +1,28 @@
+.form-container {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  .horizontal-form {
+    display: flex;
+    flex-wrap:wrap;
+    gap: 20px;
+  }
+  
+  .form-group {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input, select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 15px;
+  }
